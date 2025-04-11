@@ -67,3 +67,4 @@ def display_menu(): # This will display the main menu and handle user selections
 
 if __name__ == "__main__":
     display_menu()
+# Kindly rerun this program to ensure efficiency.
